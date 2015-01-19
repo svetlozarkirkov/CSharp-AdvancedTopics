@@ -1,0 +1,8 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\7.CSharp-AdvancedTopics\13.AvgLoadTimeCalculator\bin\Debug\13.AvgLoadTimeCalculator.exe.config
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\7.CSharp-AdvancedTopics\13.AvgLoadTimeCalculator\bin\Debug\13.AvgLoadTimeCalculator.exe
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\7.CSharp-AdvancedTopics\13.AvgLoadTimeCalculator\bin\Debug\13.AvgLoadTimeCalculator.pdb
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\7.CSharp-AdvancedTopics\13.AvgLoadTimeCalculator\obj\Debug\13.AvgLoadTimeCalculator.exe
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\7.CSharp-AdvancedTopics\13.AvgLoadTimeCalculator\obj\Debug\13.AvgLoadTimeCalculator.pdb
+E:\Users\Sve\Documents\Visual Studio 2013\Projects\7.CSharp-AdvancedTopics\13.AvgLoadTimeCalculator\bin\Debug\13.AvgLoadTimeCalculator.exe.config
+E:\Users\Sve\Documents\Visual Studio 2013\Projects\7.CSharp-AdvancedTopics\13.AvgLoadTimeCalculator\obj\Debug\13.AvgLoadTimeCalculator.exe
+E:\Users\Sve\Documents\Visual Studio 2013\Projects\7.CSharp-AdvancedTopics\13.AvgLoadTimeCalculator\obj\Debug\13.AvgLoadTimeCalculator.pdb

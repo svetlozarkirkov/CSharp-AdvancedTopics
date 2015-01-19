@@ -1,0 +1,6 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\7.CSharp-AdvancedTopics\20.ProgrammerDNA\bin\Debug\20.ProgrammerDNA.exe.config
+C:\Users\Sve\documents\visual studio 2013\Projects\7.CSharp-AdvancedTopics\20.ProgrammerDNA\bin\Debug\20.ProgrammerDNA.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\7.CSharp-AdvancedTopics\20.ProgrammerDNA\bin\Debug\20.ProgrammerDNA.pdb
+C:\Users\Sve\documents\visual studio 2013\Projects\7.CSharp-AdvancedTopics\20.ProgrammerDNA\obj\Debug\20.ProgrammerDNA.csprojResolveAssemblyReference.cache
+C:\Users\Sve\documents\visual studio 2013\Projects\7.CSharp-AdvancedTopics\20.ProgrammerDNA\obj\Debug\20.ProgrammerDNA.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\7.CSharp-AdvancedTopics\20.ProgrammerDNA\obj\Debug\20.ProgrammerDNA.pdb

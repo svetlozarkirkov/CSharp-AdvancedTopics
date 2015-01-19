@@ -1,0 +1,5 @@
+c:\users\sve\documents\visual studio 2013\Projects\7.CSharp-AdvancedTopics\2.PrimeChecker\bin\Debug\2.PrimeChecker.exe.config
+c:\users\sve\documents\visual studio 2013\Projects\7.CSharp-AdvancedTopics\2.PrimeChecker\bin\Debug\2.PrimeChecker.exe
+c:\users\sve\documents\visual studio 2013\Projects\7.CSharp-AdvancedTopics\2.PrimeChecker\bin\Debug\2.PrimeChecker.pdb
+c:\users\sve\documents\visual studio 2013\Projects\7.CSharp-AdvancedTopics\2.PrimeChecker\obj\Debug\2.PrimeChecker.exe
+c:\users\sve\documents\visual studio 2013\Projects\7.CSharp-AdvancedTopics\2.PrimeChecker\obj\Debug\2.PrimeChecker.pdb

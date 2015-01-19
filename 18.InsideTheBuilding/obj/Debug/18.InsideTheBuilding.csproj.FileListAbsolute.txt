@@ -1,0 +1,2 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\7.CSharp-AdvancedTopics\18.InsideTheBuilding\bin\Debug\18.InsideTheBuilding.exe.config
+E:\Users\Sve\Documents\Visual Studio 2013\Projects\7.CSharp-AdvancedTopics\18.InsideTheBuilding\bin\Debug\18.InsideTheBuilding.exe.config

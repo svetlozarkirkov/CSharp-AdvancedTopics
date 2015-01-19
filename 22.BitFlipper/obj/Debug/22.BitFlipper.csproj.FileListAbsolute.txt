@@ -1,0 +1,2 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\7.CSharp-AdvancedTopics\22.BitFlipper\bin\Debug\22.BitFlipper.exe.config
+E:\Users\Sve\Documents\Visual Studio 2013\Projects\7.CSharp-AdvancedTopics\22.BitFlipper\bin\Debug\22.BitFlipper.exe.config
